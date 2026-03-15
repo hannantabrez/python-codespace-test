@@ -1,4 +1,4 @@
-unit=input("Enter your electicity unit")
+unit=input("Enter your electicity unit: ")
 unit=int(unit)
 bill=0
 if unit>0:
